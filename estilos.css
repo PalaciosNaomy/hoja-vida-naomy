@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f2f5;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+h2 {
+    color: #007BFF;
+}
+
+.foto {
+    display: block;
+    margin: auto;
+    width: 150px;
+    border-radius: 50%;
+}
+
+ul {
+    list-style: square;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    background: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
